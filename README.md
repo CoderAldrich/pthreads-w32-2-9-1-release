@@ -4,9 +4,9 @@ pthreads-w32-2-9-1-release  [ftp://sources.redhat.com/pub/pthreads-win32/](ftp:/
 直接使用or编译源码
 ## 直接使用
 Pre-built.2这个文件夹下有三个文件夹
-dll 动态链接库
-include头文件
-lib 静态链接库
+- dll 动态链接库
+- include头文件
+- lib 静态链接库
 ### 配置头文件
 把include文件夹下的头文件拷贝到vs2017安装目录下
 
@@ -16,7 +16,8 @@ D:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\1
 
 D:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.11.25503\lib
 ### 配置动态链接库
-Pre-built.2\dll\x86下的文件拷贝到C:\Windows\SysWOW64目录下 
+Pre-built.2\dll\x86下的文件拷贝到C:\Windows\SysWOW64目录下
+
 Pre-built.2\dll\x64下的文件拷贝到C:\Windows\System32目录下
 
 测试
