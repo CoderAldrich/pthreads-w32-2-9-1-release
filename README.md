@@ -1,5 +1,5 @@
 # pthreads-w32-2-9-1-release
-pthreads-w32-2-9-1-release  ftp://sources.redhat.com/pub/pthreads-win32/
+pthreads-w32-2-9-1-release  [ftp://sources.redhat.com/pub/pthreads-win32/](ftp://sources.redhat.com/pub/pthreads-win32/)
 
 直接使用or编译源码
 1.直接使用
